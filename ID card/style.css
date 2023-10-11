@@ -1,0 +1,45 @@
+
+    h1{
+         font-size:330%;
+         color: blue;
+    }
+    h2 {
+        font-size: 200%;
+        color: aqua;
+    }
+    #nacc {
+        color: rgb(253, 0, 0);
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        width: 750px;
+        border: 1px solid;
+        border-radius: 3%;
+    }
+     .image {
+        padding-top: 10%;
+     }
+    .form{
+        background-color: antiquewhite;
+    }
+    #name{
+        color: rgb(228, 103, 14);
+    }
+    .prin{
+        font-size:xx-large; 
+        margin-left: 80%;
+        color: black;
+    }
+    .year {
+        background-color: rgb(239, 117, 17); 
+        color: white;
+    }
+    .krg {
+        margin-left: 88%;
+        border-radius: 8%;
+    }   
+    .tred{        
+        color:rebeccapurple;
+    }  
+    
+    
